@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world! 👋
 
 - 🔭 I’m currently working on Remember
 - 🌱 I’m currently undergoing a Tech Course with _Nology
