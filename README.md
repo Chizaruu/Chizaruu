@@ -14,4 +14,8 @@
 </p>
 
 ## My Games
+
+> Keys:
+> - Github = Games playable in Web Browser
+> - Itch = Games downloadable
 - Cat Cheese: [Github](https://chizaruu.github.io/cat-cheese/) | [Itch](https://chizaruu.itch.io/cat-cheese)
