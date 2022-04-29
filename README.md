@@ -12,3 +12,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chizaruu&row=1&theme=onedark" alt="Chizaruu's stats"/>
 </p>
+
+## My Games
+- Cat Cheese: [Github](https://chizaruu.github.io/cat-cheese/) | [Itch](https://chizaruu.itch.io/cat-cheese)
