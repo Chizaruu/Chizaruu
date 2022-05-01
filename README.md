@@ -20,3 +20,5 @@
 > - Itch = Games downloadable
 - Cat Cheese: [Github](https://chizaruu.github.io/cat-cheese/) | [Itch](https://chizaruu.itch.io/cat-cheese)
 - Remember: [Github](https://chizaruu.github.io/remember/)
+- For the Bros: [Itch](https://chizaruu.itch.io/for-the-bros)
+- Princess Cheese: [Itch](https://chizaruu.itch.io/princess-cheese)
