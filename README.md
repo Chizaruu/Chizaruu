@@ -26,4 +26,9 @@
 
 ## My Utilities 
 
-- Gif Converter: [Github](https://github.com/Chizaruu/gif-converter)
+> Keys:
+> - Repo = Open Source Repository
+> - Web = Can be used in Browser
+
+- Gif Converter: [Repo](https://github.com/Chizaruu/gif-converter)
+- Morse Code Translator: [Repo](https://chizaruu.github.io/morse-code-translator) | [Web] 
