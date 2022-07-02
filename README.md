@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-- 🔭 I'm currently working on [Gif Converter](https://github.com/Chizaruu/gif-converter)
+- 🔭 I'm currently working on Self-Improvement.
 - 🌱 I'm currently undergoing a Tech Course with _Nology
 - 👯 I'm looking to collaborate on nothing at the moment, but I'm keen to help
 - 💬 Ask me about Unity2D related stuff
