@@ -1,7 +1,7 @@
 ## Hello World! 👋
 
 - 🔭 I'm currently working on a Roguelike Tutorial series, find it on my [YouTube](https://www.youtube.com/channel/UC8__XEn9chu9LYDxFC4WzIA/) channel.
-- 🌱 I'm currently undergoing the "RoguelikeDev Does The Complete Roguelike Tutorial" Challenge.
+- 🌱 I'm currently undergoing the ["RoguelikeDev Does The Complete Roguelike Tutorial"](https://www.reddit.com/r/roguelikedev/comments/vm9yam/roguelikedev_does_the_complete_roguelike_tutorial/) Challenge.
 - 👯 I'm looking to collaborate on nothing at the moment, but I'm keen to help
 - 💬 Ask me about Unity2D related stuff
 - 📫 How to reach me: You can find me on [Discord](https://discord.gg/RAfBGZhaUP)
