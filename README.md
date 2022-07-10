@@ -1,10 +1,10 @@
 ## Hello World! 👋
 
-- 🔭 I'm currently working on Self-Improvement.
-- 🌱 I'm currently undergoing a Tech Course with _Nology
+- 🔭 I'm currently working on a Roguelike Tutorial series, find it on my [YouTube](https://www.youtube.com/channel/UC8__XEn9chu9LYDxFC4WzIA/) channel.
+- 🌱 I'm currently undergoing the "RoguelikeDev Does The Complete Roguelike Tutorial" Challenge.
 - 👯 I'm looking to collaborate on nothing at the moment, but I'm keen to help
 - 💬 Ask me about Unity2D related stuff
-- 📫 How to reach me: You can find me on Discord @Chizaruu#1920, where I spend my time mainly on the Samyam server -https://discord.gg/SwCKB3Q
+- 📫 How to reach me: You can find me on [Discord](https://discord.gg/RAfBGZhaUP)
 - ⚡ Fun fact: You code half the day to squash one bug only to find 12 more.
 
 ## My Stats
