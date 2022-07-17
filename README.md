@@ -39,3 +39,12 @@
 > - Repo = Open Source Repository
 
 - Roguelike Starter Kit: [Repo](https://github.com/Chizaruu/rlsktd)
+
+## My Tutorials
+
+> Keys:
+> - Repo = Open Source Repository
+> - Youtube = Playlist
+
+- Unity Roguelike Tutorial: [Repo](https://github.com/Chizaruu/Unity-RL-Tutorial) | [Youtube](https://www.youtube.com/playlist?list=PLzbRW-gm6o9ZxxDcx2u2Oj-Vap4HHQdwz)
+- Development Starter Kit: [Youtube](https://www.youtube.com/playlist?list=PLzbRW-gm6o9Zo4klpaxgSDNiYASruiJZ9)
