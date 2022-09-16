@@ -1,7 +1,6 @@
 ## Hello World! 👋
 
 - 🔭 I'm currently working on a Roguelike Tutorial series, find it on my [YouTube](https://www.youtube.com/channel/UC8__XEn9chu9LYDxFC4WzIA/) channel.
-- 🌱 I'm currently undergoing the ["RoguelikeDev Does The Complete Roguelike Tutorial"](https://www.reddit.com/r/roguelikedev/comments/vm9yam/roguelikedev_does_the_complete_roguelike_tutorial/) Challenge.
 - 👯 I'm looking to collaborate on nothing at the moment, but I'm keen to help
 - 💬 Ask me about Unity2D related stuff
 - 📫 How to reach me: You can find me on [Discord](https://discord.gg/RAfBGZhaUP)
@@ -23,7 +22,6 @@
 - For the Bros: [Itch](https://chizaruu.itch.io/for-the-bros)
 - Princess Cheese: [Itch](https://chizaruu.itch.io/princess-cheese)
 
-
 ## My Utilities 
 
 > Keys:
@@ -32,13 +30,6 @@
 
 - Gif Converter: [Repo](https://github.com/Chizaruu/gif-converter) | [Web](https://chizaruu.github.io/gif-converter/)
 - Morse Code Translator: [Repo](https://github.com/Chizaruu/morse-code-translator) | [Web](https://chizaruu.github.io/morse-code-translator)
-
-## My Frameworks
-
-> Keys:
-> - Repo = Open Source Repository
-
-- Roguelike Starter Kit: [Repo](https://github.com/Chizaruu/rlsktd)
 
 ## My Tutorials
 
