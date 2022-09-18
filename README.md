@@ -4,7 +4,6 @@
     while creating content on Youtube for the Unity Engine.
 </h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=chizaruu&label=Profile%20views&color=0e75b6&style=flat)  
 ![Chizaruu](https://github-profile-trophy.vercel.app/?username=chizaruu)  
 
 <p align="left">
@@ -16,7 +15,7 @@
 </p>
 
 - 🔭 I’m currently working on [Unity Roguelike Tutorial](https://www.youtube.com/channel/UC8__XEn9chu9LYDxFC4WzIA/)
-- 🌱 I’m currently learning **Markdown**
+- 🌱 I’m currently learning **Markdown (.md)**
 - 👯 I’m looking to collaborate on [RogueBasin](https://github.com/Chizaruu/roguebasin)
 - 💬 Ask me about **Unity**
 - 📫 How to reach me **Discord, Linkedin**
