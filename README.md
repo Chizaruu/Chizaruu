@@ -4,15 +4,14 @@
     while creating content on Youtube for the Unity Engine.
 </h3>
 
+---
+
 ![Chizaruu](https://github-profile-trophy.vercel.app/?username=chizaruu)  
 
-<p align="left">
-    <a href="https://twitter.com/chizaruugco" target="blank"
-        ><img
-            src="https://img.shields.io/twitter/follow/chizaruugco?logo=twitter&style=for-the-badge"
-            alt="chizaruugco"
-    /></a>
-</p>
+![Twitter Follow](https://img.shields.io/twitter/follow/chizaruugco?style=social) 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8__XEn9chu9LYDxFC4WzIA?style=social)
+
+---
 
 - 🔭 I’m currently working on [Unity Roguelike Tutorial](https://www.youtube.com/channel/UC8__XEn9chu9LYDxFC4WzIA/)
 - 🌱 I’m currently learning **Markdown (.md)**
@@ -21,7 +20,8 @@
 - 📫 How to reach me **Discord, Linkedin**
 - ⚡ Fun fact **You code half the day to squash one bug only to find 12 more.**  
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
+
 <p align="left">
     <a href="https://twitter.com/chizaruugco" target="blank"
         ><img
@@ -59,7 +59,8 @@
     /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
+
 <p align="left">
     <a
         href="https://azure.microsoft.com/en-in/"
