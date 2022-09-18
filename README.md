@@ -8,8 +8,13 @@
 
 ![Chizaruu](https://github-profile-trophy.vercel.app/?username=chizaruu)  
 
-![Twitter Follow](https://img.shields.io/twitter/follow/chizaruugco?style=social) 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8__XEn9chu9LYDxFC4WzIA?style=social)
+<a href="https://twitter.com/chizaruugco" target="blank">
+    <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/chizaruugco?style=social">
+</a>
+
+<a href="https://www.youtube.com/channel/UC8__XEn9chu9LYDxFC4WzIA" target="blank">
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8__XEn9chu9LYDxFC4WzIA?style=social">
+</a>
 
 ---
 
