@@ -271,19 +271,3 @@
         />
     </a>
 </p>
-
-<p>
-    <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=chizaruu&show_icons=true&locale=en&layout=compact"
-        alt="chizaruu"
-    />
-</p>
-
-<p>
-    &nbsp;<img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=chizaruu&show_icons=true&theme=dark&locale=en"
-        alt="chizaruu"
-    />
-</p>
