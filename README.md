@@ -8,10 +8,9 @@
 
 ![Chizaruu](https://github-profile-trophy.vercel.app/?username=chizaruu)  
 
-<a href="https://twitter.com/chizaruugco" target="blank">
+<a href="https://twitter.com/chizaruugco?ref_src=twsrc%5Etfw" target="blank">
     <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/chizaruugco?style=social">
 </a>
-
 <a href="https://www.youtube.com/channel/UC8__XEn9chu9LYDxFC4WzIA" target="blank">
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8__XEn9chu9LYDxFC4WzIA?style=social">
 </a>
