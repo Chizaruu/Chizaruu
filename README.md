@@ -24,45 +24,6 @@
 - 📫 How to reach me **Discord, Linkedin**
 - ⚡ Fun fact **You code half the day to squash one bug only to find 12 more.**  
 
-## Connect with me:
-
-<p align="left">
-    <a href="https://twitter.com/chizaruugco" target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="chizaruugco"
-            height="30"
-            width="40"
-    /></a>
-    <a href="https://linkedin.com/in/abdul-kadir-coskun" target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="abdul-kadir-coskun"
-            height="30"
-            width="40"
-    /></a>
-    <a
-        href="https://www.youtube.com/channel/UC8__XEn9chu9LYDxFC4WzIA"
-        target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="uc8__xen9chu9lydxfc4wzia"
-            height="30"
-            width="40"
-    /></a>
-    <a href="https://discord.gg/WA5KwjCdcA" target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="WA5KwjCdcA"
-            height="30"
-            width="40"
-    /></a>
-</p>
-
 ## Languages and Tools:
 
 <p align="left">
