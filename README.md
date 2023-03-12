@@ -17,7 +17,7 @@
 
 ---
 
-- 🔭 I’m currently working on **SproutRL)**
+- 🔭 I’m currently working on **SproutRL**
 - 🌱 I’m currently learning **Algorithms**
 - 👯 I’m looking to collaborate on [RogueBasin](https://github.com/Chizaruu/roguebasin)
 - 💬 Ask me about **Unity**
