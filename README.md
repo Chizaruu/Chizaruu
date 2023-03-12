@@ -17,8 +17,8 @@
 
 ---
 
-- 🔭 I’m currently working on Humble Dungeoneer
-- 🌱 I’m currently learning **Markdown (.md)**
+- 🔭 I’m currently working on **SproutRL)**
+- 🌱 I’m currently learning **Algorithms**
 - 👯 I’m looking to collaborate on [RogueBasin](https://github.com/Chizaruu/roguebasin)
 - 💬 Ask me about **Unity**
 - 📫 How to reach me **Discord, Linkedin**
