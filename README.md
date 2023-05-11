@@ -14,6 +14,9 @@
 <a href="https://www.youtube.com/channel/UC8__XEn9chu9LYDxFC4WzIA" target="blank">
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8__XEn9chu9LYDxFC4WzIA?style=social">
 </a>
+<a href="https://discord.gg/VU8EhUY7bX" target="blank">
+    <img alt="Discord Members" src="https://img.shields.io/discord/1106106269837819914?color=D1495B&logo=discord&logoColor=FFFFFF&style=flat">
+</a>
 
 ---
 
@@ -21,7 +24,7 @@
 - 🌱 I’m currently learning **Algorithms**
 - 👯 I’m looking to collaborate on [RogueBasin](https://github.com/Chizaruu/roguebasin)
 - 💬 Ask me about **Unity**
-- 📫 How to reach me **Discord, Linkedin**
+- 📫 How to reach me **[Discord](https://discord.gg/VU8EhUY7bX), [Linkedin](https://www.linkedin.com/in/abdul-kadir-coskun/)**
 - ⚡ Fun fact **You code half the day to squash one bug only to find 12 more.**  
 
 ## Languages and Tools:
