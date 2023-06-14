@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋, I'm Abdul-Kadir Coskun</h1>
 <h3 align="center">
-    I'm a Front-End(*) / Game developer. I'm currently working as a freelancer
-    while creating content on Youtube for the Unity Engine.
+    I'm a Front-End / Game developer. I'm currently working as a freelancer
+    while creating on Youtube for the Unity Engine.
 </h3>
 
 ---
