@@ -1,7 +1,9 @@
 <h1 align="center">Hello World! 👋, I'm Abdul-Kadir Coskun</h1>
 <h3 align="center">
-    I'm a Front-End / Game developer. I'm currently working as a freelancer
-    while creating on Youtube for the Unity Engine.
+    I'm a Full Stack / Game Developer.
+</h3>
+<h3 align="center">
+    I am a Lead Developer for <a href="https://falconeyesolutions.com.au/" target="blank" title="Pretty neat company IMO ;)">Falcon Eye Solutions</a>.
 </h3>
 
 ---
