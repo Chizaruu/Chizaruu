@@ -22,9 +22,8 @@
 
 ---
 
-- 🔭 I’m currently working on **Misfit Castle**
+- 🔭 I’m currently working on **Cargowise Integration**
 - 🌱 I’m currently learning **Algorithms**
-- 👯 I’m looking to collaborate on [RogueBasin](https://github.com/Chizaruu/roguebasin)
 - 💬 Ask me about **Unity**
 - 📫 How to reach me **[Discord](https://discord.gg/WxFG6Wm5hk), [Linkedin](https://www.linkedin.com/in/abdul-kadir-coskun/)**
 - ⚡ Fun fact **You code half the day to squash one bug only to find 12 more.**  
