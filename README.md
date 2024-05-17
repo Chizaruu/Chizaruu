@@ -3,7 +3,7 @@
     I'm a Full Stack / Game Developer.
 </h3>
 <h3 align="center">
-    I am a Lead Developer for <a href="https://falconeyesolutions.com.au/" target="blank" title="Pretty neat company IMO ;)">Falcon Eye Solutions</a>.
+    I am a Solutions Architect for <a href="https://falconeyesolutions.com.au/" target="blank" title="Pretty neat company IMO ;)">Falcon Eye Solutions</a>.
 </h3>
 
 ---
