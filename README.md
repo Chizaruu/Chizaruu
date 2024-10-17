@@ -43,14 +43,6 @@
             height="40"
         />
     </a>
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-            alt="babel"
-            width="40"
-            height="40"
-        />
-    </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -75,26 +67,10 @@
             height="40"
         />
     </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker"
-            width="40"
-            height="40"
-        />
-    </a>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
             alt="dotnet"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-            alt="firebase"
             width="40"
             height="40"
         />
@@ -115,22 +91,6 @@
             height="40"
         />
     </a>
-    <a href="https://gohugo.io/" target="_blank" rel="noreferrer">
-        <img
-            src="https://api.iconify.design/logos-hugo.svg"
-            alt="hugo"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-            alt="java"
-            width="40"
-            height="40"
-        />
-    </a>
     <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
@@ -139,22 +99,6 @@
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg"
-            alt="jekyll"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-            alt="jest"
             width="40"
             height="40"
         />
@@ -187,38 +131,6 @@
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img
-            src="https://reactnative.dev/img/header_logo.svg"
-            alt="reactnative"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-            alt="sass"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-            alt="spring"
             width="40"
             height="40"
         />
