@@ -8,8 +8,6 @@
 
 ---
 
-![Chizaruu](https://github-profile-trophy.vercel.app/?username=chizaruu)  
-
 <a href="https://twitter.com/chizaruugco?ref_src=twsrc%5Etfw" target="blank">
     <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/chizaruugco?style=social">
 </a>
